@@ -26,6 +26,3 @@ FFTData=FFT(inputData,N)
 print(*FFTData,sep='\n',end='\n')
 
 
-# 運算結果與 https://scistatcalc.blogspot.com/2013/12/fft-calculator.html 的結果相同
-
-
